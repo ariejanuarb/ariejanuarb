@@ -1,8 +1,8 @@
 ### Hello there, 👋🏻 How are we today??
-#### Here's a list of my recent projects with golang :
-- hotel booking management system
+#### Here's a list of my recent projects with Golang : 
+- hotel booking management system  
+- 2D array logic excercise
 - hackerrank problem solving implementation
-- nested array logic practice
 #### And here's the project I'm currently working on :
-- web application
+🔹 web application
 #### **Feel free to text me via Linkedin!
