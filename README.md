@@ -1,5 +1,5 @@
 ### Hello there, 👋🏻 How are we today??
-#### Here's a list of my recent projects :
+#### Here's a list of my recent projects with golang :
 - hotel booking management system
 - hackerrank problem solving implementation
 - nested array logic practice
