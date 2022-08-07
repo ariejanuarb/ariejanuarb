@@ -1,7 +1,7 @@
 ### Hai there, 👋🏻 Welcome to my Portfolio!
 #### Here's a list of my recent projects with Golang : <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/93344237/183253015-0a7669ac-75b4-4d2c-80a0-570cb293b95e.gif">
 - <a href="https://github.com/ariejanuarb/hotel-booking-management" target="_blank">Hotel booking management system</a>
-- <a href="https://github.com/ariejanuarb/array-logic-exercise" target="_blank">Array logic excercise</a>
+- <a href="https://github.com/ariejanuarb/array-logic-exercise" target="_blank">Create array logic exercise</a>
 - <a href="https://github.com/ariejanuarb/hackerrank-problem-solving" target="_blank">Hackerrank problem solving implementation</a>
 #### And here's the project I'm currently working on :
 🔹 <a href="https://github.com/ariejanuarb/bed-and-breakfast">Bed & Breakfast Management System</a> 🔹
