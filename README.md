@@ -1,4 +1,4 @@
-### Hello there, 👋🏻 Welcome to my Portfolio!
+### Hai there, 👋🏻 Welcome to my Portfolio!
 #### Here's a list of my recent projects with Golang : <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/93344237/183253015-0a7669ac-75b4-4d2c-80a0-570cb293b95e.gif">
 - hotel booking management system  
 - 2D array logic excercise
